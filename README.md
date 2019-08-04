@@ -1,2 +1,2 @@
 # rust-basics
-Learn rust basics
+Learn Rust basics!
